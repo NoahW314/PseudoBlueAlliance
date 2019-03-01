@@ -1,0 +1,14 @@
+*
+!*/
+!.gitignore
+/bin/
+!src/main/java/org/teamcalamari/*
+!build.gradle
+!settings.gradle
+!gradlew
+!gradlew.bat
+!Procfile
+!Procfile.windows
+!gradle/wrapper/*
+/.gradle/
+/build/
